@@ -1,16 +1,19 @@
-# Curso Machine Learning: Introdução a classificação com SKLearn
-Aplique machine learning na sua empresa
 
-Pratique com diversos exemplos
+# Curso Machine Learning: Classificação por trás dos panos
+# Curso Machine Learning: Validação de modelos
+Entenda os perigos do hold out
 
-Veja como algoritmos de classificação estão por todos os lados no nosso dia a dia
+Aplique técnicas de validação cruzada (cross validation)
 
-Analise resultados com a mente de um cientista de dados
+Utilize a aleatoriedade a seu favor
 
-Compare o resultado de algoritmos lineares e não lineares
+Entenda quando usar diversas estratégias diferentes de validação cruzada
 
-Entenda por trás dos panos o que é o tal do aprendizado de máquina para classificação
+KFold, StratifiedKFold, GroupKFold
 
-Faça estudos replicáveis, com estratégias de testes
+Trabalhe na previsão de novos grupos quando nem todos os dados são leituras independentes entre si
 
-Veja Support Vector Machines, Árvores de Decisão e Dummy Classifiers
+Utilize um pipeline para treino e validação
+
+
+
